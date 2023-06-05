@@ -19,6 +19,16 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 
 - Criar um novo banco de dados e conectá-lo à aplicação.
 
+### Aula 02
+
+- Criar modelos e arquivos de migração via terminal
+
+- O que são e para que servem migrações com ORMs
+
+- Executar migrações para criação de tabelas no banco
+
+- Popular tabelas automaticamente através de arquivos seed
+
 ## Como executar
 1. Clonar o repositório
 
