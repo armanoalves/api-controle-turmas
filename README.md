@@ -29,6 +29,22 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 
 - Popular tabelas automaticamente através de arquivos seed
 
+### Aula 03
+
+- Como funciona o modelo MVC
+
+- O que é e para que serve a camada de controle
+
+- A criar um controlador
+
+- Como usar métodos do Sequelize para consultar o banco
+
+- A separar a responsabilidade das rotas para termos uma aplicação organizada
+
+- Como criar uma rota para o modelo Pessoas
+
+- A chamar um método do controlador Pessoas através da rota com o verbo HTTP GET
+
 ## Como executar
 1. Clonar o repositório
 
