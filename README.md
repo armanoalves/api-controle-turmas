@@ -57,6 +57,20 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 
 - Associar as rotas a cada método do controlador Pessoas
 
+### Aula 05 
+
+- Interpretar o diagrama de banco
+
+- Identificar os tipos de relação pedidos no projeto
+
+- Associar tabelas através de métodos do Sequelize
+
+- Referenciar tabelas associadas
+
+- Migrar tabelas associadas
+
+- Popular tabelas associadas
+
 ## Como executar
 1. Clonar o repositório
 
