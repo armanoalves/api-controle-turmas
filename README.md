@@ -72,6 +72,7 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 - Popular tabelas associadas
 
 ## Como executar
+
 1. Clonar o repositório
 
   ```
@@ -96,7 +97,7 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 
 ## Tecnologias
 
-  * **linguagem:** 
+  * **Linguagem:** 
   - [x] JavaScript
  
   * **Bibliotecas:**
