@@ -78,16 +78,33 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
   https://github.com/armanoalves/api-controle-turmas
   ```
 
-2. Localizar e acessar a pasta "api-controle-turmas";
+2. Localizar e acessar a pasta "api-controle-turmas"
 
   ```
   cd api-controle-turmas
   ```
+3. Instalar as dependências do projeto
+
+  ```
+  npm i
+  ```
+4. Rodar o projeto
+
+  ```
+  npm run start
+  ```
 
 ## Tecnologias
 
-  * **linguagem:**  
-    * JavaScript
+  * **linguagem:** 
+  - [x] JavaScript
+ 
+  * **Bibliotecas:**
+  - [x] body-parser
+  - [x] express
+  - [x] mysql2
+  - [x] sequelize
+  - [x] sequelize-cli
 
 ## Feito por: 
 
