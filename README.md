@@ -71,6 +71,18 @@ Projeto desenvolvido com base no curso de ORM com NodeJS: API com Sequelize e My
 
 - Popular tabelas associadas
 
+### Aula 06
+
+- Adicionar novos controladores;
+
+- Trabalhar com mais de um modelo no mesmo controlador;
+
+- Enviar dados via parâmetros e corpo das requisições;
+
+- Utilizar estes dados para encontrar informações no banco;
+
+- Gerar estruturas de dados do tipo JSON com informações úteis ao usuário.
+
 ## Como executar
 
 1. Clonar o repositório
